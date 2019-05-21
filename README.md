@@ -64,6 +64,7 @@ Las microempresas son las que menos empleos formales generan.
  
 El 80,1% de las empresas se crean en sectores de Comercio y Servicios
 **Reto: Focalizar esfuerzos en sectores con creación de valor agregado**
+
  ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Empleo.png)
 
 4.	¿Dónde se concentra la creación de empresas?
