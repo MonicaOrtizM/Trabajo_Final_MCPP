@@ -1,5 +1,7 @@
 # Emprendimiento como Política Pública #
 
+![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Word%20Art.png)
+
 ## Descripción del Proyecto y motivación: ##
 
 En los últimos años, la línea de política pública ha concentrado sus esfuerzos en impulsar el emprendimiento, pues parece razonable pensar que más emprendedores crean nuevas empresas y estas nuevas empresas a su vez crean puestos de trabajo, intensifican la competencia e incluso pueden aumentar la productividad a través del cambio tecnológico y la innovación. Y lo anterior en conjunto puede generar un círculo virtuoso que impulsa el crecimiento de las regiones. 
