@@ -33,9 +33,9 @@ Se extrajo el texto de cada uno de estos pdfs utilizando la librería de Python 
 
 3.	Análisis de lenguaje: con la misma librería, se hizo análisis a través de diagramas de dispersión léxica utilizando palabras relacionadas al emprendimiento por Plan de Desarrollo, análisis de concordancia y similares. 
 
-4. Unión de Planes: Dado que cada plan se encuentra en una lista diferente, se convierten en formato string para luego unirlos en su orden. A continuación, se realiza el análisis del punto 3. El código de los pasos 1-4 está ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Trabajo%20Final_PND.zip)).
+4. Unión de Planes: Dado que cada plan se encuentra en una lista diferente, se convierten en formato string para luego unirlos en su orden. A continuación, se realiza el análisis del punto 3. El código de los pasos 1-4 está ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Programaci%C3%B3n/Trabajo%20Final_PND.zip)).
 
-5.	Datos de extracción del RUES-PILA: con extracciones de las bases de datos para 2011-2018 en archivos cvs, se crean dataframes utilizando pandas en Python y se grafican. Con estos datos se hicieron gráficos más prolijos utilizando Tableau y un mapa en QGIS. El código se puede encontrar ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Extracci%C3%B3n%20de%20Informaci%C3%B3n%20Empresarial.ipynb)). 
+5.	Datos de extracción del RUES-PILA: con extracciones de las bases de datos para 2011-2018 en archivos cvs, se crean dataframes utilizando pandas en Python y se grafican. Con estos datos se hicieron gráficos más prolijos utilizando Tableau y un mapa en QGIS. El código se puede encontrar ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Programaci%C3%B3n/Extracci%C3%B3n%20de%20Informaci%C3%B3n%20Empresarial.ipynb)). 
 
 ## ¿Qué encontré? ##
 
