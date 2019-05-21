@@ -54,10 +54,11 @@ La mayoría de las empresas que se crean son microempresas.
 **Reto: Tipo de empresas sujetos de intervención.** 
 
 2.	Tamaño de las empresas vs. Empleo 
-Las microempresas son las que menos empleos formales generan. 
-**Reto: Generación de empleo ≠ autoempleo**
 
  ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Empleo.png)
+ 
+Las microempresas son las que menos empleos formales generan. 
+**Reto: Generación de empleo ≠ autoempleo**
 
 3.	¿Dónde emprender?
  
