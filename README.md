@@ -1,6 +1,6 @@
 # Emprendimiento como Política Pública #
 
-![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Word%20Art.png)
+![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Word%20Art.png)
 
 ## Descripción del Proyecto y motivación: ##
 
@@ -48,19 +48,29 @@ All code for analysis available here.
 
 4.	Al contrastar con el RUES-PILA se traducen los hallazgos anteriores a la identificación de 5 retos del emprendimiento. Cabe aclarar que estos hallazgos no son algo novedoso, sino que sigue la literatura y las recomendaciones de política que se han venido realizando dada la coyuntura. **Estos 5 retos más bien refuerzan lo ya encontrado**.
 
+### Visualizaciones de análisis de texto: ### 
+
+1. Lexical dispersion plot 
+
+![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Lexical%20Dispersion_1.png)
+
+2. Análisis de contexto 
+
+![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Contexto.png)
+
 ### Visualizaciones de los 5 retos: ###
 1.	Creación de empresas vs. Tamaño 
 
-![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Creaci%C3%B3n.png)
+![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Creaci%C3%B3n.png)
 
-![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Tama%C3%B1o.png)
+![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Tama%C3%B1o.png)
  
 La mayoría de las empresas que se crean son microempresas. 
 **Reto: Tipo de empresas sujetos de intervención.** 
 
 2.	Tamaño de las empresas vs. Empleo 
 
- ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Empleo.png)
+ ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Empleo.png)
  
 Las microempresas son las que menos empleos formales generan. 
 **Reto: Generación de empleo ≠ autoempleo**
@@ -70,7 +80,7 @@ Las microempresas son las que menos empleos formales generan.
 El 80,1% de las empresas se crean en sectores de Comercio y Servicios
 **Reto: Focalizar esfuerzos en sectores con creación de valor agregado**
 
- ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Empleo.png)
+ ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Sectores1.png)
 
 4.	¿Dónde se concentra la creación de empresas?
 La creación de empresas se concentra en: Bogotá, Antioquia, Valle, Cundinamarca y Santander. 
@@ -79,6 +89,6 @@ La creación de empresas se concentra en: Bogotá, Antioquia, Valle, Cundinamarc
  ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Mapa%20Colombia.PNG)
 
 5.	Supervivencia de los emprendimientos (microempresas) 
- ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Supervivencia%20Microempresas.png)
+ ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Supervivencia%20Microempresas.png)
  
 De cada 100 microempresas creadas, al cabo de 5 años sobreviven 34. **Reto: Apoyo en etapas tempranas (cumpliendo los 4 retos anteriores)**
