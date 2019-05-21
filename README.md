@@ -3,8 +3,11 @@
 ## Descripción del Proyecto y motivación: ##
 
 En los últimos años, la línea de política pública ha concentrado sus esfuerzos en impulsar el emprendimiento, pues parece razonable pensar que más emprendedores crean nuevas empresas y estas nuevas empresas a su vez crean puestos de trabajo, intensifican la competencia e incluso pueden aumentar la productividad a través del cambio tecnológico y la innovación. Y lo anterior en conjunto puede generar un círculo virtuoso que impulsa el crecimiento de las regiones. 
+
 En particular, el gobierno actual tiene como una de sus líneas de interés el emprendimiento, lo que, de acuerdo con el Plan Nacional de Desarrollo, “hará posible la transformación productiva que Colombia ha estado esperando y que permitirá reducir nuestra dependencia de la minería y de los hidrocarburos, aumentará la formalización laboral y empresarial y logrará un mayor aprovechamiento de las oportunidades que brindan los tratados de libre comercio.”
+
 No obstante, en realidad pareciera no darse este resultado, pues el emprendimiento también usado como una salida de los individuos ante la imposibilidad de conseguir empleo y como forma de sustento/subsistencia deciden autoemplearse. Por lo que es posible preguntarse, si el emprendimiento en Colombia trae todos los beneficios que la línea de política ha estado enfatizando, o si más bien por su lado, el efecto ha sido sobreestimado. 
+
 Es por ello que la intención de este proyecto es analizar cómo el emprendimiento ha sido discutido en los últimos 3 gobiernos y el actual, para luego contrastarlo con cifras del tejido empresarial y caracterizar los emprendimientos en Colombia en cinco dimensiones: 
 1.	Dinámica de creación de empresas y tamaño de las mismas 
 2.	Creación de empleo
