@@ -21,9 +21,9 @@ Es por ello que la intención de este proyecto es analizar cómo el emprendimien
 ## Metodología ##
 
 El análisis se realizó así: 
-1.	Transformación de archivos PDF de los 4 planes nacionales de desarrollo: 
-•	2006-2010: “Estado comunitario: desarrollo para todos”
-•	2010-2014: “Prosperidad para todos”
+1.	Transformación de archivos PDF de los 4 ([planes nacionales de desarrollo](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/tree/master/Planes%20Nacionales%20de%20Desarrollo)): 
+•	2006-2010: “Estado comunitario: desarrollo para todos” 
+•	2010-2014: “Prosperidad para todos” (Tomos 1 y 2)
 •	2014-2018: “Todos por un nuevo país”
 •	2018-2022: “Pacto por Colombia. Pacto por la equidad.”
 
