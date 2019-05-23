@@ -35,18 +35,18 @@ Se extrajo el texto de cada uno de estos pdfs utilizando la librería de Python 
 
 4. Unión de Planes: Dado que cada plan se encuentra en una lista diferente, se convierten en formato string para luego unirlos en su orden. A continuación, se realiza el análisis del punto 3. El código de los pasos 1-4 está ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Programaci%C3%B3n/Trabajo%20Final_PND.zip)).
 
-5.	Datos de extracción del RUES-PILA: con extracciones de las bases de datos para 2011-2018 en archivos cvs, se crean dataframes utilizando pandas en Python y se grafican. Con estos datos se hicieron gráficos más prolijos utilizando Tableau y un mapa en QGIS. El código se puede encontrar ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Programaci%C3%B3n/Extracci%C3%B3n%20de%20Informaci%C3%B3n%20Empresarial.ipynb)). 
+5.	Datos de extracción del RUES-PILA: con extracciones de las bases de datos para 2011-2018 en archivos cvs, se crean dataframes utilizando pandas en Python y se grafican. El código se puede encontrar ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Programaci%C3%B3n/Extracci%C3%B3n%20de%20Informaci%C3%B3n%20Empresarial.ipynb)). Con estos datos se hicieron gráficos más prolijos utilizando Tableau y un mapa en QGIS, los documentos correspondientes se encuentran ([aquí](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/tree/master/Otros)). 
 
 ## ¿Qué encontré? ##
 
-All code for analysis available here.
 1. 	La palabra emprendimiento ha ido aumentando en su intensidad de uso, siendo 2018-2022 el periodo en el que se utilizó más. 
 
 2. El emprendimiento se usa en contextos relacionados a innovación, vinculación laboral, productividad, generación de ingresos, acceso al financiamiento y fortalecimiento empresarial. 
 
 3. Del análisis de “similar”, se encontró que ha evolucionado más la forma con la que se asocia el término, partiendo de un subprograma, estratégico a competitividad e investigación. 
 
-4.	Al contrastar con el RUES-PILA se traducen los hallazgos anteriores a la identificación de 5 retos del emprendimiento. Cabe aclarar que estos hallazgos no son algo novedoso, sino que sigue la literatura y las recomendaciones de política que se han venido realizando dada la coyuntura. **Estos 5 retos más bien refuerzan lo ya encontrado**.
+4.	Al contrastar con el RUES-PILA se traducen los hallazgos anteriores en una identificación de 5 retos del emprendimiento. Cabe aclarar que estos hallazgos no son algo novedoso, sino que sigue la literatura y las recomendaciones de política que se han venido realizando dada la coyuntura, en la que el tema resulta de gran relevancia al ser uno de los *pilares* del presente gobierno. 
+**En síntesis, estos 5 retos más bien refuerzan lo ya encontrado en la ([literatura](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/tree/master/Papers)), y en las recomendaciones de política realizadas a través de diferentes documentos oficiales**.
 
 ### Visualizaciones de análisis de texto: ### 
 
