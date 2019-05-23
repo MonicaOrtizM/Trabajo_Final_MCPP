@@ -86,7 +86,7 @@ El 80,1% de las empresas se crean en sectores de Comercio y Servicios
 La creación de empresas se concentra en: Bogotá, Antioquia, Valle, Cundinamarca y Santander. 
 **Reto: Descentralización, regiones funcionales**
 
- ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Mapa%20Colombia.PNG)
+ ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Mapa%20Colombia.PNG)
 
 5.	Supervivencia de los emprendimientos (microempresas) 
  ![alt text](https://github.com/MonicaOrtizM/Trabajo_Final_MCPP/blob/master/Im%C3%A1genes/Supervivencia%20Microempresas.png)
